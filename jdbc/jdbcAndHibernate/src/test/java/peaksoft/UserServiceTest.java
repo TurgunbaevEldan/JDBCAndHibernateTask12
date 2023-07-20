@@ -6,7 +6,6 @@ import peaksoft.model.User;
 import peaksoft.service.UserService;
 import peaksoft.service.UserServiceImpl;
 
-
 import java.util.List;
 
 public class UserServiceTest {
